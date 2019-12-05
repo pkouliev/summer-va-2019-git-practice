@@ -3,5 +3,6 @@ public class SecondClass {
         String myname = "Humayra";
         System.out.println(myname);
         System.out.println("this  is another line");
+        System.out.println("this  is another line");
     }
 }
